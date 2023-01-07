@@ -13,7 +13,7 @@ if "%option%" == "1" (
 ) else if "%option%" == "2" (
   call search.bat
 ) else if "%option%" == "3" (
-  
+  echo "Exiting"
 )else (
   echo Invalid option.
 )
