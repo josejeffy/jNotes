@@ -1,5 +1,0 @@
-[14:04:41.80] This script will format the timestamp in the format MM/DD/YYYY HH:MM:SS, using the current date and time as reported by the system. 
-[14:04:51.48] Here is a batch script that will prompt the user to enter a search term and then display the matching notes from the notes.txt file 
-[14:07:43.46] create a script to allow users to select the option to create or search notes and then call the associated bat script 
-[14:41:36.09] [effect] horizontal hostility as a prejudice shown by members of a minority group toward members of a similar minority group that is perceived to be more mainstream 
-[14:46:06.56] [dotnet build] dotnet publish -r win-x64 --self-contained true --output app --use-current-runtime -p:PublishSingleFile=true 
